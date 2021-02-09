@@ -1,10 +1,10 @@
 import 'package:meta/meta.dart';
 
 class Disease {
-  static const String name = "Cholera";
-  static const String causedBy ="Dirty water";
-  static const String description = "Cholera kills so be careful";
-  static const String causes = "When you drink impure water";
+  static const String name = "COVID 19";
+  static const String causedBy ="Corona Virus";
+  static const String description = "Les coronavirus regroupent de nombreux virus dont seuls certains sont pathogènes pour l'Homme, parfois mortels. ";
+  static const String causes = "Poluted air";
 }
 
 class Symptom {

@@ -6,7 +6,7 @@ abstract class NetworkManager {
 
   static init() {
     BaseOptions options = new BaseOptions(
-        baseUrl: "https://7e0f1e07ff57.ngrok.io/",
+        baseUrl: "https://groupe2-info4077.mooo.com/",
         connectTimeout: 5000,
         receiveTimeout: 3000,
         headers: {"ApplicationID": "groupe2"});

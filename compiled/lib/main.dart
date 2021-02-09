@@ -38,11 +38,11 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return StartProviders(
       child: MaterialApp(
-        title: 'Victoire',
+        title: 'Corona Surveillance',
         theme: ThemeData(
           fontFamily: 'Avenir',
-          primaryColor: HexColor.fromHex(""),
-          accentColor: HexColor.fromHex(""),
+          primaryColor: HexColor.fromHex("#990099"),
+          accentColor: HexColor.fromHex("#9999ff"),
           visualDensity: VisualDensity.adaptivePlatformDensity,
         ),
         builder: EasyLoading.init(),
